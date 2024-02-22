@@ -1,0 +1,15 @@
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Tt]emp/
+/[Uu]serSettings/
+*.sln
+*.csproj
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta

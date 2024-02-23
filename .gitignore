@@ -1,3 +1,4 @@
+# these folders get modified by the mere act of opening a project. they must be ignored
 **/[Ll]ibrary/
 **/[Ll]ogs/
 **/[Tt]emp/

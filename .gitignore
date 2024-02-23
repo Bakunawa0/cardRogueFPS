@@ -1,7 +1,7 @@
-/[Ll]ibrary/*
-/[Ll]ogs/*
-/[Tt]emp/*
-/[Uu]serSettings/*
+**/[Ll]ibrary/
+**/[Ll]ogs/
+**/[Tt]emp/
+**/[Uu]serSettings/
 *.sln
 *.csproj
 

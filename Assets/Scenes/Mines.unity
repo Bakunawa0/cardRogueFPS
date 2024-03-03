@@ -358,7 +358,7 @@ MonoBehaviour:
   AutomataSteps: 7
   RandomFillPercent: 55
   LimitRoomSize: 0
-  ThresholdSize: 20
+  ThresholdSize: 70
   CorridorWidth: 3
   WallCube: {fileID: 239251453}
 --- !u!4 &880223904

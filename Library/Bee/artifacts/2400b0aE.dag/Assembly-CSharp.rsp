@@ -351,6 +351,9 @@
 -analyzer:"/home/jul/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/home/jul/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/scropts/MapGen.cs"
+"Assets/scropts/MoveCamera.cs"
+"Assets/scropts/PlayerCam.cs"
+"Assets/scropts/PlayerMovement.cs"
 -langversion:9.0
 
 /deterministic
